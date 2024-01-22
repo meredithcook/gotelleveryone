@@ -49,6 +49,6 @@
     order: 1;
     background-size: cover;
     background-position: center;
-    @include responsivebackground("half-sm.jpg", "half-md.jpg", "half-lg.jpg");
+    @include responsivebackground("BH_GoTellEveryone_1600x1600.jpg");
   }
 }
