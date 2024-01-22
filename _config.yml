@@ -19,8 +19,8 @@ social:
     url: brianmaierjr
 
 # General settings
-# url: meredithcook.net
-# baseurl: "" 
+# url: "meredithcook.net"
+# baseurl: 
 markdown: kramdown
 sharing_image: share.jpg
 google_analytics: "UA-58263416-1" # google analytics tracking
