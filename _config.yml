@@ -22,7 +22,7 @@ social:
 # url: "meredithcook.net/gotelleveryone"
 # baseurl: "/gotelleveryone"
 markdown: kramdown
-sharing_image: "BH_GoTellEveryone_1600x1600.jpg"
+sharing_image: "/BH_GoTellEveryone_1600x1600.jpg"
 google_analytics: "UA-58263416-1" # google analytics tracking
 
 #### LAYOUT OPTIONS #####
